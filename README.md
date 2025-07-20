@@ -10,6 +10,10 @@ A simple and elegant weather application where users can enter a city name and i
 
 ---
 
+## 🚀 Live Demo
+
+🔗 [Click here to play](https://nikunj-52147.github.io/Weather-app/)
+
 ## 🔍 Features
 
 - 🌍 Search weather by city name
@@ -33,9 +37,9 @@ A simple and elegant weather application where users can enter a city name and i
 ## 📸 Screenshots
 
 <img src="./Screenshot1.png" alt="Mumbai Weather" width="300"/>
+<img src="./Screenshot4.png" alt="Miami Weather" width="300"/>
 <img src="./Screenshot2.png" alt="Tokyo Weather" width="300"/>
-<img src="./Screenshot3.png" alt="Cairo Weather" width="300"/>
-<img src="./demo.png" alt="London Weather" width="300"/>
+<img src="./Error.png" alt="Error Message" width="300"/>
 
 ## 🛠️ Tech Stack
 
